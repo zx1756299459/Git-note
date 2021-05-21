@@ -25,6 +25,6 @@ git clone 远程地址
 git pull 远程库地址别名 远程分支名
 ssh-keygen -t rsa -C zx@com   ssh
 Ssh: 免密登录
-
+push pull clone
 
 
