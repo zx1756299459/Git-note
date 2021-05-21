@@ -3,28 +3,28 @@ jdbc.url=jdbc:mysql://localhost:3306/ssmbuild?useUnicode=true&characterEncoding=
 jdbc.username=root
 jdbc.password=123456
 
-1.ÖØÓÃÃüÁî
-2.git config --global user.name zx ÉèÖÃÓÃ»§Ç©Ãû
+1.é‡ç”¨å‘½ä»¤
+2.git config --global user.name zx è®¾ç½®ç”¨æˆ·ç­¾å
 3.git config --global user.email zx@com 
-4.git init ³õÊ¼»¯±¾µØ¿â
-5.git status ²é¿´±¾µØ¿â×´Ì¬
-6.git add zx.txt Ìí¼Óµ½Ôİ´æÇø
-7.git commit -m ¡°##¡± zx.txt Ìá½»µ½±¾µØ¿â
-8.git reflog ²é¿´ÀúÊ·¼ÇÂ¼
-9.git reset --hard °æ±¾ºÅ  °æ±¾ÇĞ»»
-·ÖÖ§£º
-git branch ·ÖÖ§Ãû ´´½¨·ÖÖ§
-git branch -v ²é¿´·ÖÖ§
-git chechout ·ÖÖ§Ãû ÇĞ»»·ÖÖ§
-git merge ·ÖÖ§Ãû °ÑÖ¸¶¨µÄ·ÖÖ§ºÏ²¢µ½µ±Ç°·ÖÖ§ÉÏ
+4.git init åˆå§‹åŒ–æœ¬åœ°åº“
+5.git status æŸ¥çœ‹æœ¬åœ°åº“çŠ¶æ€
+6.git add zx.txt æ·»åŠ åˆ°æš‚å­˜åŒº
+7.git commit -m â€œ##â€ zx.txt æäº¤åˆ°æœ¬åœ°åº“
+8.git reflog æŸ¥çœ‹å†å²è®°å½•
+9.git reset --hard ç‰ˆæœ¬å·  ç‰ˆæœ¬åˆ‡æ¢
+åˆ†æ”¯ï¼š
+git branch åˆ†æ”¯å åˆ›å»ºåˆ†æ”¯
+git branch -v æŸ¥çœ‹åˆ†æ”¯
+git chechout åˆ†æ”¯å åˆ‡æ¢åˆ†æ”¯
+git merge åˆ†æ”¯å æŠŠæŒ‡å®šçš„åˆ†æ”¯åˆå¹¶åˆ°å½“å‰åˆ†æ”¯ä¸Š
 Github:
-git remote -v ²é¿´Ô¶³ÌµØÖ·±ğÃû
-git remote add ±ğÃû Ô¶³ÌµØÖ· »»±ğÃû
-git push ±ğÃû ·ÖÖ§ 
-git clone Ô¶³ÌµØÖ·
-git pull Ô¶³Ì¿âµØÖ·±ğÃû Ô¶³Ì·ÖÖ§Ãû
+git remote -v æŸ¥çœ‹è¿œç¨‹åœ°å€åˆ«å
+git remote add åˆ«å è¿œç¨‹åœ°å€ æ¢åˆ«å
+git push åˆ«å åˆ†æ”¯ 
+git clone è¿œç¨‹åœ°å€
+git pull è¿œç¨‹åº“åœ°å€åˆ«å è¿œç¨‹åˆ†æ”¯å
 ssh-keygen -t rsa -C zx@com   ssh
-Ssh: 
+Ssh: å…å¯†ç™»å½•
 
 
 
