@@ -1,0 +1,30 @@
+jdbc.driver=com.mysql.cj.jdbc.Driver
+jdbc.url=jdbc:mysql://localhost:3306/ssmbuild?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true
+jdbc.username=root
+jdbc.password=123456
+
+1.重用命令
+2.git config --global user.name zx 设置用户签名
+3.git config --global user.email zx@com 
+4.git init 初始化本地库
+5.git status 查看本地库状态
+6.git add zx.txt 添加到暂存区
+7.git commit -m “##” zx.txt 提交到本地库
+8.git reflog 查看历史记录
+9.git reset --hard 版本号  版本切换
+分支：
+git branch 分支名 创建分支
+git branch -v 查看分支
+git chechout 分支名 切换分支
+git merge 分支名 把指定的分支合并到当前分支上
+Github:
+git remote -v 查看远程地址别名
+git remote add 别名 远程地址 换别名
+git push 别名 分支 
+git clone 远程地址
+git pull 远程库地址别名 远程分支名
+ssh-keygen -t rsa -C zx@com   ssh
+Ssh: 
+
+
+
